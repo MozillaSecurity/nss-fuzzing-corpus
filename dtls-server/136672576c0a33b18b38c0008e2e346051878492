@@ -1,0 +1,161 @@
+    <html>
+    <head>
+        <title>RealTime: Oct 2003</title>
+    <STYLE type="text/css">      body {
+        font-family: Helvetica, san-serif; 
+        background-color: #E1E5CD; }
+          <!-- The product name and tag line.      -->
+      h1.product { 
+        font-family: Times, serif;
+        font-size: 38px;
+        margin: 0;
+        color:#0F3263; 
+        background-color: #E1E5CD; }
+      h2.tagline { 
+        font-family: Helvetica, sans-serif;
+        font-size: 16px; 
+        font-weight: bolder;
+        color:#0F3263; 
+        background-color: #E1E5CD;
+        padding: 0;
+        margin-top: 0;
+        margin-right: 0;
+        margin-bottom: 8px;
+        margin-left: 3cm; }
+    
+      .menu {
+        background-color:#CBCC99;
+        color:black; 
+        padding:6px; }
+      
+      .menu_heading {
+        padding: 0;
+        margin: 6,0,2,0; 
+        font-weight:bold;
+        font-variant: small-caps; }
+
+      .menu_item {
+        color:black;
+        padding: 0;
+        margin-top:0; 
+        margin-right:0; 
+        margin-bottom:0; 
+        margin-left:8; 
+        font-weight:normal;
+        font-variant: normal; }
+
+      .white_menu_item {
+        color:black;
+        background-color:white; 
+        padding: 0;
+        margin: 0; }
+
+      .mini_date {
+        font-size: 8px;
+        color:#0F3263; 
+      }
+
+      .mini_day_link {
+        color:#0F3263; 
+        text-decoration:underline;
+      }
+      .mini_dayheading {
+        font-size: 8px;
+        color:#0F3263; 
+      }
+
+      .mini_month_heading {
+        font-size: 8px;
+        color:#0F3263; 
+        border-bottom: thin #0F3263; 
+      }
+
+      .calendar_heading {
+        background-color:#0F3263;  
+        color:white;
+        font-size:12px;
+      }
+
+      .calendar_heading_monthname {
+        background-color:#0F3263;  
+        color:white;
+        font-size: 20px;
+      }
+
+      .calendar_light_row {
+        background-color: white;
+        height:60;
+        vertical-align:top;
+      }
+      
+      .calendar_dark_row {
+        background-color:#CCCED7; 
+        height:60;
+        vertical-align:top;
+      }
+      
+        </STYLE>
+    
+  
+    </head>
+
+    <body>
+
+    <table width="100%">
+      <tr>
+        <td colspan="2">
+          <h1 class="product">RealTime</h1>
+          <h2 class="tagline">KEEPING YOU ONTIME</h2>
+          </td>
+        <td align="right">    <TABLE> 
+      <TR> 
+        <TD COLSPAN=7 ALIGN="MIDDLE" class="mini_month_heading">
+    Oct </TD>
+      </TR>
+      <TR>
+        <TD class="mini_dayheading">S</TD>
+        <TD class="mini_dayheading">M</TD>
+        <TD class="mini_dayheading">T</TD>
+        <TD class="mini_dayheading">W</TD>
+        <TD class="mini_dayheading">T</TD>
+        <TD class="mini_dayheading">F</TD>
+        <TD class="mini_dayheading">S</TD></TR>
+    <TR><TD class="mini_date"></TD><TD class="mini_date"></TD><TD class="mini_date"></TD><TD class="mini_date"><a href="/mark/oct-1/" class="mini_day_link">1</a></TD><TD class="mini_date"><a href="/mark/oct-2/" class="mini_day_link">2</a></TD><TD class="mini_date"><a href="/mark/oct-3/" class="mini_day_link">3</a></TD><TD class="mini_date"><a href="/mark/oct-4/" class="mini_day_link">4</a></TD></TR><TR><TD class="mini_date"><a href="/mark/oct-5/" class="mini_day_link">5</a></TD><TD class="mini_date"><a href="/mark/oct-6/" class="mini_day_link">6</a></TD><TD class="mini_date"><a href="/mark/oct-7/" class="mini_day_link">7</a></TD><TD class="mini_date"><a href="/mark/oct-8/" class="mini_day_link">8</a></TD><TD class="mini_date"><a href="/mark/oct-9/" class="mini_day_link">9</a></TD><TD class="mini_date"><a href="/mark/oct-10/" class="mini_day_link">10</a></TD><TD class="mini_date"><a href="/mark/oct-11/" class="mini_day_link">11</a></TD></TR><TR><TD class="mini_date"><a href="/mark/oct-12/" class="mini_day_link">12</a></TD><TD class="mini_date"><a href="/mark/oct-13/" class="mini_day_link">13</a></TD><TD class="mini_date"><a href="/mark/oct-14/" class="mini_day_link">14</a></TD><TD class="mini_date"><a href="/mark/oct-15/" class="mini_day_link">15</a></TD><TD class="mini_date"><a href="/mark/oct-16/" class="mini_day_link">16</a></TD><TD class="mini_date"><a href="/mark/oct-17/" class="mini_day_link">17</a></TD><TD class="mini_date"><a href="/mark/oct-18/" class="mini_day_link">18</a></TD></TR><TR><TD class="mini_date"><a href="/mark/oct-19/" class="mini_day_link">19</a></TD><TD class="mini_date"><a href="/mark/oct-20/" class="mini_day_link">20</a></TD><TD class="mini_date"><a href="/mark/oct-21/" class="mini_day_link">21</a></TD><TD class="mini_date"><a href="/mark/oct-22/" class="mini_day_link">22</a></TD><TD class="mini_date"><a href="/mark/oct-23/" class="mini_day_link">23</a></TD><TD class="mini_date"><a href="/mark/oct-24/" class="mini_day_link">24</a></TD><TD class="mini_date"><a href="/mark/oct-25/" class="mini_day_link">25</a></TD></TR><TR><TD class="mini_date"><a href="/mark/oct-26/" class="mini_day_link">26</a></TD><TD class="mini_date"><a href="/mark/oct-27/" class="mini_day_link">27</a></TD><TD class="mini_date"><a href="/mark/oct-28/" class="mini_day_link">28</a></TD><TD class="mini_date"><a href="/mark/oct-29/" class="mini_day_link">29</a></TD><TD class="mini_date"><a href="/mark/oct-30/" class="mini_day_link">30</a></TD><TD class="mini_date"><a href="/mark/oct-31/" class="mini_day_link">31</a></TD><TD class="mini_date"></TD></TR></TABLE></td>
+        </tr>
+      <tr>
+        <td valign="top" width="20%">        <div class="menu">
+        <p class="menu_heading">Current User:</p>
+        <p class="white_menu_item">mark</p>        <p class="menu_heading">Go To:<br>
+          <span class="menu_item">Search</span><br>
+          <span class="menu_item"><a href="/mark/new">Add New Entry</a></span><br>
+          <span class="menu_item">Import</span><br>
+          <span class="menu_item">Export</span><br>
+          <span class="menu_item">Logout</span><br>
+        </p>
+                    <p class="menu_heading">Views:<br>
+
+            <span class="menu_item">
+              <a href="/mark/today/">Today</a></span><br>                <span class="menu_item"><a href="http://pooh-vmware:8000/mark/Oct/shared">Shared</a></span><br>
+                        <p class="menu_heading">Admin:<br>
+            <span class="menu_item"><a href="/mark/edit">My Account</a></span><br>
+        <span class="menu_item">System-wide</span><br>        </div>
+        </td>
+        <td colspan="2" valign="top">
+        <TABLE BORDER="0" WIDTH="100%" CELLSPACING="1" CELLPADDING="2">
+      <tr>
+        <th class="calendar_heading_monthname" colspan="7">October</th>
+      <tr>
+        <TH WIDTH="14%" CLASS="calendar_heading">Sun</TH>
+        <TH WIDTH="14%" CLASS="calendar_heading">Mon</TH>
+        <TH WIDTH="14%" CLASS="calendar_heading">Tue</TH>
+        <TH WIDTH="14%" CLASS="calendar_heading">Wed</TH>
+        <TH WIDTH="14%" CLASS="calendar_heading">Thu</TH>
+        <TH WIDTH="14%" CLASS="calendar_heading">Fri</TH>
+        <TH WIDTH="14%" CLASS="calendar_heading">Sat</TH>
+        </TR>
+    <TR><TD class="calendar_light_row">&nbsp;</TD><TD class="calendar_light_row">&nbsp;</TD><TD class="calendar_light_row">&nbsp;</TD><TD class="calendar_light_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-1/" class="day_link">1</a><td align="right" class="add_appt"><a href="/mark/oct-1/_/edit"> + </a></table></TD><TD class="calendar_light_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-2/" class="day_link">2</a><td align="right" class="add_appt"><a href="/mark/oct-2/_/edit"> + </a></table></TD><TD class="calendar_light_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-3/" class="day_link">3</a><td align="right" class="add_appt"><a href="/mark/oct-3/_/edit"> + </a></table></TD><TD class="calendar_light_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-4/" class="day_link">4</a><td align="right" class="add_appt"><a href="/mark/oct-4/_/edit"> + </a></table></TD></TR><TR><TD class="calendar_dark_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-5/" class="day_link">5</a><td align="right" class="add_appt"><a href="/mark/oct-5/_/edit"> + </a></table></TD><TD class="calendar_dark_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-6/" class="day_link">6</a><td align="right" class="add_appt"><a href="/mark/oct-6/_/edit"> + </a></table></TD><TD class="calendar_dark_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-7/" class="day_link">7</a><td align="right" class="add_appt"><a href="/mark/oct-7/_/edit"> + </a></table></TD><TD class="calendar_dark_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-8/" class="day_link">8</a><td align="right" class="add_appt"><a href="/mark/oct-8/_/edit"> + </a></table></TD><TD class="calendar_dark_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-9/" class="day_link">9</a><td align="right" class="add_appt"><a href="/mark/oct-9/_/edit"> + </a></table></TD><TD class="calendar_dark_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-10/" class="day_link">10</a><td align="right" class="add_appt"><a href="/mark/oct-10/_/edit"> + </a></table></TD><TD class="calendar_dark_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-11/" class="day_link">11</a><td align="right" class="add_appt"><a href="/mark/oct-11/_/edit"> + </a></table></TD></TR><TR><TD class="calendar_light_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-12/" class="day_link">12</a><td align="right" class="add_appt"><a href="/mark/oct-12/_/edit"> + </a></table></TD><TD class="calendar_light_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-13/" class="day_link">13</a><td align="right" class="add_appt"><a href="/mark/oct-13/_/edit"> + </a></table></TD><TD class="calendar_light_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-14/" class="day_link">14</a><td align="right" class="add_appt"><a href="/mark/oct-14/_/edit"> + </a></table></TD><TD class="calendar_light_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-15/" class="day_link">15</a><td align="right" class="add_appt"><a href="/mark/oct-15/_/edit"> + </a></table></TD><TD class="calendar_light_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-16/" class="day_link">16</a><td align="right" class="add_appt"><a href="/mark/oct-16/_/edit"> + </a></table></TD><TD class="calendar_light_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-17/" class="day_link">17</a><td align="right" class="add_appt"><a href="/mark/oct-17/_/edit"> + </a></table></TD><TD class="calendar_light_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-18/" class="day_link">18</a><td align="right" class="add_appt"><a href="/mark/oct-18/_/edit"> + </a></table></TD></TR><TR><TD class="calendar_dark_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-19/" class="day_link">19</a><td align="right" class="add_appt"><a href="/mark/oct-19/_/edit"> + </a></table></TD><TD class="calendar_dark_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-20/" class="day_link">20</a><td align="right" class="add_appt"><a href="/mark/oct-20/_/edit"> + </a></table></TD><TD class="calendar_dark_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-21/" class="day_link">21</a><td align="right" class="add_appt"><a href="/mark/oct-21/_/edit"> + </a></table></TD><TD class="calendar_dark_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-22/" class="day_link">22</a><td align="right" class="add_appt"><a href="/mark/oct-22/_/edit"> + </a></table></TD><TD class="calendar_dark_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-23/" class="day_link">23</a><td align="right" class="add_appt"><a href="/mark/oct-23/_/edit"> + </a></table></TD><TD class="calendar_dark_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-24/" class="day_link">24</a><td align="right" class="add_appt"><a href="/mark/oct-24/_/edit"> + </a></table></TD><TD class="calendar_dark_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-25/" class="day_link">25</a><td align="right" class="add_appt"><a href="/mark/oct-25/_/edit"> + </a></table></TD></TR><TR><TD class="calendar_light_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-26/" class="day_link">26</a><td align="right" class="add_appt"><a href="/mark/oct-26/_/edit"> + </a></table></TD><TD class="calendar_light_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-27/" class="day_link">27</a><td align="right" class="add_appt"><a href="/mark/oct-27/_/edit"> + </a></table></TD><TD class="calendar_light_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-28/" class="day_link">28</a><td align="right" class="add_appt"><a href="/mark/oct-28/_/edit"> + </a></table></TD><TD class="calendar_light_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-29/" class="day_link">29</a><td align="right" class="add_appt"><a href="/mark/oct-29/_/edit"> + </a></table></TD><TD class="calendar_light_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-30/" class="day_link">30</a><td align="right" class="add_appt"><a href="/mark/oct-30/_/edit"> + </a></table></TD><TD class="calendar_light_row"><table width=100%><tr><td align="left"><span class="monthdate"><a href="/mark/oct-31/" class="day_link">31</a><td align="right" class="add_appt"><a href="/mark/oct-31/_/edit"> + </a></table></TD><TD class="calendar_light_row">&nbsp;</TD></TR></TABLE>        </td>
+      </tr>
+    </table>
+    </body>
+    </html>
+    
